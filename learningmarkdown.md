@@ -7,9 +7,9 @@ Using Markdown is different than using a [WYSIWYG](https://en.wikipedia.org/wiki
  
 1. **Headers**
 
-#This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+ #This is an <h1> tag
+ ## This is an <h2> tag
+ ###### This is an <h6> tag
 
 2. **Emphasis**
 
@@ -43,22 +43,22 @@ Ordered
 [GitHub](http://github.com)
 
 5. **Images**
-
+"
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](url) "
  
  
  6. **Blockquotes**
  
- As Kanye West said:
+" As Kanye West said:
 
 > We're living the future so
-> the present is our past
+> the present is our past"
 
 7. **Inline code**
 
-I think you should use an
-`<addr>` element here instead.
+"I think you should use an
+`<addr>` element here instead."
 
 **Example using Markdown**
 
