@@ -1,8 +1,8 @@
 #### Welcome to Anna's Learning Journal 
 
-**Let's start this journey together!! 
+**Let's start this journey together!!** 
  
-**Table of contents
+**Table of contents** 
 
 1. Growth Mindsets
 
