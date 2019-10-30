@@ -1,8 +1,9 @@
-## Welcome to Anna's Learning Journal 
+#### Welcome to Anna's Learning Journal 
 
-Let's start this journey together!! 
-
-### Markdown
+**Let's start this journey together!! **
+ 
+**Table of contents
+1. Growth Mindsets
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
