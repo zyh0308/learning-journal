@@ -7,7 +7,7 @@ Using Markdown is different than using a [WYSIWYG](https://en.wikipedia.org/wiki
  
 1. The number of # you use will determine the size of heading
 
- ###### The smallest heading #######
+ ###### ######The smallest heading ####### #######
 
   # The largest heading # 
 
