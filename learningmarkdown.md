@@ -6,8 +6,8 @@ Using Markdown is different than using a [WYSIWYG](https://en.wikipedia.org/wiki
 #### What does markdown look like? ####
  
 1. The number of # you use will determine the size of heading
-###### The largest heading #######
-# The smallerst heading # 
+###### The smallest heading #######
+# The largest heading # 
 2. Styling text
 **Bold** 
 *italic*
