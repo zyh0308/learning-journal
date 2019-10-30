@@ -5,4 +5,4 @@ My name is Yihang (Anna) Zhang. I graduated from University of Washington with M
 **Table of contents** 
 
 1. [Growth Mindsets](https://github.com/zyh0308/learning-journal/blob/master/growth%20mindset)
-
+2. Learning markdown 
