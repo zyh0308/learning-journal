@@ -15,7 +15,7 @@ Using Markdown is different than using a [WYSIWYG](https://en.wikipedia.org/wiki
 
   ** **Bold** **
 
-  * *italic* *
+   * *italic* *
 
   ~~ ~~strikethrought~~ ~~
   
