@@ -9,14 +9,14 @@ Using Markdown is different than using a [WYSIWYG](https://en.wikipedia.org/wiki
 
  ###### ######The smallest heading ####### #######
 
-  # The largest heading # 
+  # #The largest heading# # 
 
 2. Styling text
 
-  **Bold** 
+  ** **Bold** **
 
-  *italic*
+  * *italic* *
 
-  ~~strikethrought~~ 
+  ~~ ~~strikethrought~~ ~~
   
   
