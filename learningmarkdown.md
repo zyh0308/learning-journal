@@ -19,4 +19,9 @@ Using Markdown is different than using a [WYSIWYG](https://en.wikipedia.org/wiki
 
   ~~ ~~strikethrought~~ ~~
   
+ 3. Quoting text 
+ 
+ you can quote text using > 
+ 
+ 
   
