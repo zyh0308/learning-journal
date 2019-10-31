@@ -1,4 +1,4 @@
-# Revisions and the Cloud#
+# Revisions and the Cloud #
 
 #### What is Vision Control #### 
 
@@ -11,7 +11,7 @@
 - Distributed Version Control : A Distributed Version Control systems (DVCS) addresses the major vulnerability of the CVS: the server as a single point of failure. A Distributed Version Control systems (DVCS) addresses the major vulnerability of the CVS: the server as a single point of failure. So that programmers working in teams can collaborate with each other in various ways to complete a joint project. 
 
 
-#### What is Git####
+#### What is Git ####
 
 Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.
 
