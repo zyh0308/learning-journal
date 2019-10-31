@@ -8,3 +8,5 @@ My name is Yihang (Anna) Zhang. I graduated from University of Washington with M
 
 1. [Growth Mindset](growthmindset.md)
 2. [Learning markdown](learningmarkdown.md)
+3. [The Coder's computer](thecoder'scomputer.md)
+
