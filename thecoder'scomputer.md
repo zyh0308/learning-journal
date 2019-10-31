@@ -1,6 +1,6 @@
-# The Coder's Computer#
+# The Coder's Computer
 
-**Choosing a Text Editor***
+**Choosing a Text Editor**
 
 A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site. The text editor has to be one of the most important tools you can use as an aspiring web developer.
 
@@ -10,6 +10,7 @@ Every computer will come with its own text editor. On Mac computers, the text ed
 And on Linux computers, each distribution will have its own text editor already installed but which one might depend on the flavor of your particular distribution. These text editors will go by different names. One distro might have “Gedit,” and others might have other titles. Check you list of applications to see which text editor comes with your distribution of Linux.
 
 Since these text editors already come on your computers, why should you download yet another text editor that does essentially the same thing as the text editor that you already have? There are other text editors that have features that you may be interested in, like the ones we discussed before. Usually, the text editors that come on your computer don’t have many features to speak of. They’re the barest bare bones text editors you’ll encounter.
+
 
 
 **Cheat Sheet**
@@ -32,6 +33,16 @@ Since these text editors already come on your computers, why should you download
 
 - **is** : List the contents of a directory
 
-- 
+- **file** : obtain information about what type of file a file or directory is
+
+- **ls -a** : List the contents of a directory, including hidden files
+
+- **everything is a file under Linux** : everything is actually a file. A text file is a file, a directory is a file, your keyboard is a file (one that the system reads from only), your monitor is a file (one that the system writes to only) etc
+
+- **Linux is an extensionless system** 
+
+- **Linux is case sensitive** 
+
+
 
    
