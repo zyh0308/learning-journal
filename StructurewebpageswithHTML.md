@@ -86,3 +86,22 @@ Since you know what needs to appear on your websit, you can start to organize yo
 - When making sense of a design, we tend to organize visual elements into groups. Grouping related pieces of information together can make a design easier to comprehend. Here are some ways this can be achieved.
 - Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized. Good navigation tends to follow these principles...
 
+
+### HTML5 Layout ###
+
+- Traditional HTML Layouts :  Web page authors used <div> elements to group together related elements on the page.
+  - <div id="header">, <div id="nav">, <div id="content">...
+- New HTML5 Layout: The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already
+- Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
+- To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google.
+  
+  
+#### Extra Markup ####
+
+- DOCTYPES tell browsers which version of HTML you are using.
+- You can add comments to your code between the <!-- and --> markers.
+- The id and class attributes allow you to identify particular elements.
+- The <div> and <span> elements allow you to group block-level and inline elements together.
+- <iframes> cut windows into your web pages through which other pages can be displayed.
+- The <meta> tag allows you to supply all kinds of information about your web page.
+- Escape characters are used to include special characters in your pages such as <, >, and ©.
