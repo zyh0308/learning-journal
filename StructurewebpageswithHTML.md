@@ -1,6 +1,6 @@
 ## Structure web page with HTML ## 
 
-## Process and Design ##
+### Process and Design ###
 
 
 #### Who? ####
