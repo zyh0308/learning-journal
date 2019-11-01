@@ -67,3 +67,19 @@ Some sites benefit from being updated more frequently than others. Some informat
 - How often is the subject updated?
 - What percentage of your visitors would return for regular updates on the subject, compared with those who will just need the information once?
 
+#### Where ####
+
+Since you know what needs to appear on your websit, you can start to organize your site.
+
+- The aim is to create a diagram of the pages that will be used to structure the site. This is known as a **site map** and it will show how those pages can be grouped.
+- To help you decide what information should go on each page, you can use a technique called **card sorting**.
+- A **wireframe** is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
+
+
+#### How ####
+
+-The primary aim of any kind of visual design is to communicate. Organizing and prioritizing information on a page helps users understand its importance and what order to read it in.
+- **Visual hierarchy** refers to the order in which your eyes perceive what they see. It is created by adding **visual contrast** between the items being displayed. Items with higher contrast are recognized and processed first.
+- When making sense of a design, we tend to organize visual elements into groups. Grouping related pieces of information together can make a design easier to comprehend. Here are some ways this can be achieved.
+- Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized. Good navigation tends to follow these principles...
+
