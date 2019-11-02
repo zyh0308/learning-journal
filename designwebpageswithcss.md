@@ -19,9 +19,9 @@ CSS declarations sit inside curly brackets and each is made up of two parts: **a
 
 If there are two or more rules that apply to the same element, it is important to understand which will take precedence.
 
--􏰉􏰁􏰍􏰅 **􏰄􏰓􏰉􏰀LAST RULE** : If the two selectors are identical, the latter of the two will take precedence. Here you can see the second i selector takes precedence over the first.
+-**LAST RULE** : If the two selectors are identical, the latter of the two will take precedence. Here you can see the second i selector takes precedence over the first.
 
-- **􏰍􏰈􏰀Specificity** : If one selector is more specific than the others, the more specific rule will take precedence over more general ones. In this example:
+- **Specificity** : If one selector is more specific than the others, the more specific rule will take precedence over more general ones. In this example:
 h1 is more specific than *
 p b is more specific than p p#intro is more specific than p
 
