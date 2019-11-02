@@ -7,7 +7,7 @@
 
 CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a **selector and a declaration**.
 
-**􏰋􏰍CSS properties affect how elements are displayed**
+**CSS properties affect how elements are displayed**
 CSS declarations sit inside curly brackets and each is made up of two parts: **a property and a value**, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon.
 
 **CSS Selectors**
@@ -25,7 +25,7 @@ If there are two or more rules that apply to the same element, it is important t
 h1 is more specific than *
 p b is more specific than p p#intro is more specific than p
 
-- **􏰇Important** : You can add !important after any property value to indicate that it should be considered more important than other rules that apply to the same element.
+- **Important** : You can add !important after any property value to indicate that it should be considered more important than other rules that apply to the same element.
 
 Understanding how CSS rules cascade means you can write simpler style sheets because you can create generic rules that apply to most elements and then override the properties on individual elements that need to appear differently.
 
