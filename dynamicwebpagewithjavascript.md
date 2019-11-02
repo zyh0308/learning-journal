@@ -71,5 +71,18 @@ This tells the browser to find and load the script file (just like the src attri
 8. Open the HTML file in your web browser and the welcome greeting is written into the page.
 
 
+### Basic Javascript instructions ###
+
+- A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a **statement**.
+Statements should end with a semicolon.
+
+- **JAVASCRIPT IS CASE SENSITIVE**
+JavaScript is case sensitive so hourNow means something different to HourNow or HOURNOW.
+
+- You should write **comments**  to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code.
+
+- A script will have to temporarily store the bits of information it needs to do its job. It can store this data in **variables.**
+
+- 
 
 
