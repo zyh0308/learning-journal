@@ -16,4 +16,6 @@ My name is Yihang (Anna) Zhang. I graduated from University of Washington with M
 
 5. [Structure we pages with HTML](StructurewebpageswithHTML.md)
 
+6. [Design web pages with CSS](designwebpageswithCSS.md)
+
 
